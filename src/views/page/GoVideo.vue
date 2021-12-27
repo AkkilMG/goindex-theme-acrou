@@ -204,11 +204,11 @@ export default {
           icon: this.$cdnpath("images/player/thunder.png"),
           scheme: "thunder://" + this.getThunder,
         },
-        {
+        /*{
           name: "Aria2",
           icon: this.$cdnpath("images/player/aria2.png"),
           scheme: 'javascript:alert("暂未实现")',
-        },
+        },*/
         {
           name: "nPlayer",
           icon: this.$cdnpath("images/player/nplayer.png"),
